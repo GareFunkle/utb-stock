@@ -1,0 +1,17 @@
+<template>
+  <div class="itauba">
+    95
+  </div>
+</template>
+
+<script>
+
+import BestMenu from '@/components/BestMenu.vue'
+
+export default {
+  name: 'CatItauba',
+  components: {
+    BestMenu
+  }
+}
+</script>
